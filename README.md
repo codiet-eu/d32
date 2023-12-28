@@ -46,6 +46,6 @@ pip install ncpol2sdpa
 pip install gcastle==1.0.3
 ```
 
-## Provenance
+## Provenance and Licensing
 
-The prototype is based on the code by Quan Zhou at ICL (https://github.com/Quan-Zhou/Proper-Learning-of-LDS) and Serene He at CTU (https://github.com/sereneHe/Causal-Models-Learning/). 
+The prototype is based on the code by Quan Zhou at ICL (https://github.com/Quan-Zhou/Proper-Learning-of-LDS) and Serene He at CTU (https://github.com/sereneHe/Causal-Models-Learning/) and is licensed under Apache License 2.0 (https://github.com/codiet-eu/d32/blob/main/LICENSE).
