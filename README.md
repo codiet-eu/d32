@@ -45,3 +45,7 @@ pip install mosek
 pip install ncpol2sdpa
 pip install gcastle==1.0.3
 ```
+
+## Provenance
+
+The prototype is based on the code by Quan Zhou at ICL (https://github.com/Quan-Zhou/Proper-Learning-of-LDS) and Serene He at CTU (https://github.com/sereneHe/Causal-Models-Learning/). 
