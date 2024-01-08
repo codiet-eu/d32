@@ -1,6 +1,6 @@
-# Causal Model Learning with Non-Commutative Polynomial Optimization
+# Learning Causal Models with Non-Commutative Polynomial Optimization
 
-Welcome to the repository for causal discovery deliverable 3.2! This codebase encompasses notebooks and test results associated with each figure in the deliverable.
+Welcome to the repository for causal-discovery deliverable 3.2! This codebase encompasses notebooks and test results associated with each figure in the [report](https://github.com/codiet-eu/d32/blob/main/report.pdf).
 
 ## Causal Learning Process
 1. **Generate Data:** Use the `IIDSimulation` function in `Generate Data.py` to create artificial true causal graphs and observation data.
